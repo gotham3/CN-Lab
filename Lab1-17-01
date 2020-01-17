@@ -1,4 +1,5 @@
 https://www.isi.edu/nsnam/ns/doc/node296.html
+https://www.isi.edu/nsnam/ns/tutorial/nsscript1.html
 
 set ns [new Simulator]
 set mytrace [open out.tr w]
